@@ -1,4 +1,4 @@
-# ObjectDetection
+# Audioflexica
 Audioflexica audio detection project for [Codeology](https://www.codeology.club/) Fall 2018
 
 This was a 4-week project led by [Kevin Wang](https://www.linkedin.com/in/kevin-wang-ba7b36123/). The goal was to create a python program that detects sound from the computer's microphone and react to the sound via a 3D mesh. This was written in Python 2.7 and we used Anaconda Navigator to create a virtual environment and organize packages.
